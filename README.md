@@ -66,8 +66,8 @@
   Following is the link to the Github repository for Team Profile Generator application:  
   https://github.com/SamGTR/Note-Taker
 
-  Following is the link to walkthrough video demonstrating the functionality of the application:
-  https://drive.google.com/file/d/140GgQzKYCy2F21X4iOWFWCTSBvqFquIm/view?usp=sharing
+  Following is the link to the deployed application to Heroku:
+  https://sam-note-taker.herokuapp.com/
 
 ## Questions
 
